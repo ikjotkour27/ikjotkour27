@@ -3,7 +3,7 @@ A passionate Full Stack Developer and ML enthusiast from India
 
 ---
 
-![Coding Fun](https://github.com/ikjotkour27/ikjotCodeVibe.png)  
+![Coding Fun](https://github.com/ikjotkour27/IkjotCodeVibes.png)  
 *Girl coding with headphones and panda energy*  
 
 ---
