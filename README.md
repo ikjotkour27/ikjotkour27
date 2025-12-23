@@ -1,23 +1,28 @@
-# Hi there 👋, I'm [Your Name]  
-A passionate Full Stack Developer from [Your Country]  
+# Hi there 👋, I'm Ikjot Kour  
+A passionate Full Stack Developer and ML enthusiast from India  
+
+---
+
+![Coding Fun](https://github.com/ikjotkour27/ikjotCodeVibe.png)  
+*Girl coding with headphones and panda energy*  
 
 ---
 
 ## 🔭 I’m currently working on
-[Your Current Project / Company]  
+A full stack Zoom call platform, including concepts of sockets, etc.
 
 ## 🌱 I’m currently learning
-[Technologies / Frameworks you are learning, e.g., Angular, Next.js]  
+Python libraries for ML and DevOps  
 
 ## 💬 Ask me about
-MERN Stack, Full Stack Development, or [any other topics]  
+MERN Stack, Full Stack Development, or Java  
 
 ## 📫 How to reach me
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin/)  
+- Email: [ikjotkour.27@gmail.com](mailto:ikjotkour.27@gmail.com)  
+- LinkedIn: [https://www.linkedin.com/in/ikjot-kour-0994a730b/](https://www.linkedin.com/in/ikjot-kour-0994a730b/)  
 
 ## ⚡ Fun fact
-I love coding while listening to lo-fi beats 🎧  
+I love coding while listening to lo-fi beats 🎧 with panda energy.  
 
 ---
 
@@ -31,9 +36,28 @@ I love coding while listening to lo-fi beats 🎧
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+---
+
+## 📄 Resume
+You can download my resume here: [Resume PDF](https://github.com/your-username/your-resume-file.pdf)
 
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Ikjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikjotkour27&show_icons=true&theme=radical)
 
+---
+
+## 🏆 Achievements & Projects
+- **ERP Module** – Full-stack system for PhD scholars with React.js + Django  
+- **Line Encoding Simulator** – Java graphical simulator for encoding schemes  
+- **RISC-V Assembly Simulator** – Python-based instruction simulator  
+- **NewsMonkey App** – Real-time news app with React.js, caching & responsive design  
+- **Techvaganza Website** – Full-featured event platform with 5,000+ users  
+- **Microsoft Final HR Round** – Technical Consultant Role  
+- Winner – Semicolon Orientation ’23 & Web Dev Competition (Tech-Fusion ’24)  
+
+---
