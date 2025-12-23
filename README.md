@@ -38,3 +38,9 @@ const Ikjot = {
 };
 
 // let’s build something cool ✨
+
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](Ikjot_Kour_Resume.pdf)
+[![Gmail](https://img.shields.io/badge/Gmail-ikjotkour.27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikjotkour.27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ikjot%20Kour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikjot-kour-0994a730b/)
+
+
