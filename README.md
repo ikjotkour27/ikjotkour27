@@ -16,82 +16,25 @@ Pandas keep me calm, bugs keep me sharp 🐼
   <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,mongodb,django,html,css,bootstrap,tailwind&perline=6" />
 </p>
 
-
 ## 💌 Let’s Connect
+// if you're reading this,
+// we should probably connect ☕💻
 
-<p align="center">
-  <table>
-    <tr>
-      <!-- LEFT: CONTACT LINKS -->
-      <td align="left" style="padding-right: 30px;">
-        <p>
-          <a href="mailto:ikjotkour.27@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-ikjotkour.27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-          </a>
-        </p>
-        <p>
-          <a href="https://www.linkedin.com/in/ikjot-kour-0994a730b/">
-            <img src="https://img.shields.io/badge/LinkedIn-Ikjot%20Kour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-          </a>
-        </p>
-      </td>
+const Ikjot = {
+  role: "Full Stack Developer",
+  vibe: "lo-fi beats 🎧 + panda energy 🐼",
+  location: "India 🇮🇳",
 
-      <!-- RIGHT: RESUME CIRCLE -->
-      <td align="center">
-        <a href="Ikjot_Kour_Resume.pdf">
-          <img
-            src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white"
-            style="border-radius: 50%; width: 140px; height: 140px;"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
-<table align="center">
-  <tr>
-    <td align="left">
-      <a href="mailto:ikjotkour.27@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-ikjotkour.27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a><br/><br/>
-      <a href="https://www.linkedin.com/in/ikjot-kour-0994a730b/">
-        <img src="https://img.shields.io/badge/LinkedIn-Ikjot%20Kour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="Ikjot_Kour_Resume.pdf">
-        <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white" width="140" height="140" style="border-radius:50%;" />
-      </a>
-    </td>
-  </tr>
-</table>
-## 💌 Let’s Connect
+  reachMeAt: {
+    email: "ikjotkour.27@gmail.com",
+    linkedin: "linkedin.com/in/ikjot-kour-0994a730b"
+  },
 
-<table align="center">
-  <tr>
-    <!-- LEFT: CONTACT -->
-    <td align="left" style="padding-right: 30px;">
-      <a href="mailto:ikjotkour.27@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-ikjotkour.27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <br/><br/>
-      <a href="https://www.linkedin.com/in/ikjot-kour-0994a730b/">
-        <img src="https://img.shields.io/badge/LinkedIn-Ikjot%20Kour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
+  resume: "Ikjot_Kour_Resume.pdf",
 
-    <!-- RIGHT: RESUME CIRCLE -->
-    <td align="center">
-      <a href="Ikjot_Kour_Resume.pdf">
-        <img
-          src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white"
-          width="140"
-          height="140"
-          style="border-radius:50%;"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+  funFact() {
+    return "Codes calmly until a bug tests her patience 🐛";
+  }
+};
 
-
+// let’s build something cool ✨
