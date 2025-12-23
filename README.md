@@ -17,37 +17,13 @@ Pandas keep me calm, bugs keep me sharp 🐼
 </p>
 
 ---
-
-## 📊 How I actually code (from my repos)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjotkour27&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-> This graph is auto-generated from my public repositories and updates as I code more.
-
----
-
-## 🔥 GitHub Activity
+## 📊 How I Actually Code
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikjotkour27&show_icons=true&theme=radical&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ikjotkour27&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ikjotkour27&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 📎 Know More About Me
-
-[![Download Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](Ikjot_Kour_Resume.pdf)
-
-- 📧 Email: [ikjotkour.27@gmail.com](mailto:ikjotkour.27@gmail.com)  
-- 💼 LinkedIn: [Ikjot Kour](https://www.linkedin.com/in/ikjot-kour-0994a730b/)  
-
----
-
-### 🐼 Fun bit (human, not AI)
-> I enjoy building things that work, fixing things that break, and learning just enough chaos to stay curious.
+> Based on my public GitHub repositories.
