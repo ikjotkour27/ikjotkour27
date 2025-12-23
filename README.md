@@ -16,14 +16,11 @@ Pandas keep me calm, bugs keep me sharp 🐼
   <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,mongodb,django,html,css,bootstrap,tailwind&perline=6" />
 </p>
 
----
-## 📊 How I Actually Code
+
+## 📊 GitHub Snapshot
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ikjotkour27&layout=compact&theme=radical"
-    alt="Top Languages"
-  />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ikjotkour27&show_icons=true&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikjotkour27&layout=compact&theme=radical" />
 </p>
 
-> Based on my public GitHub repositories.
