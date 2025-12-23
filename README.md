@@ -17,10 +17,36 @@ Pandas keep me calm, bugs keep me sharp 🐼
 </p>
 
 
-## 📊 GitHub Snapshot
+## 💌 Let’s Connect
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ikjotkour27&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikjotkour27&layout=compact&theme=radical" />
+  <table>
+    <tr>
+      <!-- LEFT: CONTACT LINKS -->
+      <td align="left" style="padding-right: 30px;">
+        <p>
+          <a href="mailto:ikjotkour.27@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-ikjotkour.27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+          </a>
+        </p>
+        <p>
+          <a href="https://www.linkedin.com/in/ikjot-kour-0994a730b/">
+            <img src="https://img.shields.io/badge/LinkedIn-Ikjot%20Kour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+          </a>
+        </p>
+      </td>
+
+      <!-- RIGHT: RESUME CIRCLE -->
+      <td align="center">
+        <a href="Ikjot_Kour_Resume.pdf">
+          <img
+            src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white"
+            style="border-radius: 50%; width: 140px; height: 140px;"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
