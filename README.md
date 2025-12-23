@@ -1,19 +1,13 @@
 
 # Hellooo coders ! I'm Ikjot Kour ੴ
 A passionate Full Stack Developer and ML enthusiast from India  
-
+I code to the rhythm of lo-fi beats 🎧 and pandas give me company 🐼 
 <p>
   <img src="IkjotCodeVibes.png" alt="Ikjot Code Vibes" width="500"/>
 </p>
 
-## 📫 How to reach me
-- Email: [ikjotkour.27@gmail.com](mailto:ikjotkour.27@gmail.com)  
-- LinkedIn: [https://www.linkedin.com/in/ikjot-kour-0994a730b/](https://www.linkedin.com/in/ikjot-kour-0994a730b/)  
-I code to the rhythm of lo-fi beats 🎧 and pandas give me company 🐼  
 
----
-
-## 🛠 Languages and Tools
+## My Toolset -- :}
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,8 +20,9 @@ I code to the rhythm of lo-fi beats 🎧 and pandas give me company 🐼
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
-
-## 📄 Resume
-[![Download Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/ikjotkour27/ikjot (2).pdf)  
+##  Know More About Me !!
+[![Download Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](Ikjot_Kour_Resume.pdf)
+- Email: [ikjotkour.27@gmail.com](mailto:ikjotkour.27@gmail.com)  
+- LinkedIn: [https://www.linkedin.com/in/ikjot-kour-0994a730b/](https://www.linkedin.com/in/ikjot-kour-0994a730b/)  
+ 
 
