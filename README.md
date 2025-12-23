@@ -2,26 +2,13 @@
 # Hi there 👋, I'm Ikjot Kour  
 A passionate Full Stack Developer and ML enthusiast from India  
 
-<p align="center">
+<p>
   <img src="IkjotCodeVibes.png" alt="Ikjot Code Vibes" width="500"/>
 </p>
-
----
-
-## 🔭 I’m currently working on
-A full stack Zoom call platform with real-time socket communication.  
-
-## 🌱 I’m currently learning
-Python libraries for ML, DevOps practices, and cloud deployment.  
-
-## 💬 Ask me about
-MERN Stack, Full Stack Development, Java, and Python.  
 
 ## 📫 How to reach me
 - Email: [ikjotkour.27@gmail.com](mailto:ikjotkour.27@gmail.com)  
 - LinkedIn: [https://www.linkedin.com/in/ikjot-kour-0994a730b/](https://www.linkedin.com/in/ikjot-kour-0994a730b/)  
-
-## ⚡ Fun fact
 I code to the rhythm of lo-fi beats 🎧 and pandas give me company 🐼  
 
 ---
@@ -44,26 +31,6 @@ I code to the rhythm of lo-fi beats 🎧 and pandas give me company 🐼
 ## 📄 Resume
 [![Download Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/your-username/your-resume-file.pdf)  
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikjotkour27&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjotkour27&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 Achievements & Projects
-- **ERP Module** – Full-stack system for PhD scholars with React.js + Django  
-- **Line Encoding Simulator** – Java graphical simulator for encoding schemes  
-- **RISC-V Assembly Simulator** – Python-based instruction simulator  
-- **NewsMonkey App** – Real-time news app with React.js, caching & responsive design  
-- **Techvaganza Website** – Full-featured event platform with 5,000+ users  
-- **Microsoft Final HR Round** – Technical Consultant Role  
-- Winner – Semicolon Orientation ’23 & Web Dev Competition (Tech-Fusion ’24)  
-
----
 
 ## ⚡ Fun Badges
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ikjotkour27)
