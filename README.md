@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Ikjot Kour  
+# Hellooo coders ! I'm Ikjot Kour ੴ
 A passionate Full Stack Developer and ML enthusiast from India  
 
 <p>
@@ -29,9 +29,5 @@ I code to the rhythm of lo-fi beats 🎧 and pandas give me company 🐼
 ---
 
 ## 📄 Resume
-[![Download Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/your-username/your-resume-file.pdf)  
+[![Download Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/ikjotkour27/ikjot (2).pdf)  
 
-
-## ⚡ Fun Badges
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ikjotkour27)
-![GitHub Followers](https://img.shields.io/github/followers/ikjotkour27?label=Followers&style=for-the-badge)
