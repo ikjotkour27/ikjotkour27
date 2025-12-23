@@ -17,27 +17,30 @@ Pandas keep me calm, bugs keep me sharp 🐼
 </p>
 
 ## 💌 Let’s Connect
+// 👋 hey you!
 // if you're reading this,
 // we should probably connect ☕💻
 
 const Ikjot = {
   role: "Full Stack Developer",
-  vibe: "lo-fi beats 🎧 + panda energy 🐼",
   location: "India 🇮🇳",
 
-  reachMeAt: {
+  vibe: {
+    music: "lo-fi beats 🎧",
+    energy: "panda 🐼"
+  },
+
+  contact: {
     email: "ikjotkour.27@gmail.com",
     linkedin: "linkedin.com/in/ikjot-kour-0994a730b"
   },
 
   resume: "Ikjot_Kour_Resume.pdf",
 
-  funFact() {
-    return "Codes calmly until a bug tests her patience 🐛";
-  }
+  funFact: "Codes calmly until a bug tests her patience 🐛"
 };
 
-// let’s build something cool ✨
+// ✨ let's build something cool
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](Ikjot_Kour_Resume.pdf)
 [![Gmail](https://img.shields.io/badge/Gmail-ikjotkour.27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikjotkour.27@gmail.com)
