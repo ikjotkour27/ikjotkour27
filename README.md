@@ -1,5 +1,5 @@
 # Hellooo coders! I'm Ikjot Kour ੴ  
-**Full Stack Developer | ML Enthusiast | Builder by nature**
+**Full Stack Developer | Cloud & DevOps in Progress | Builder by nature**
 
 I code to the rhythm of lo-fi beats 🎧  
 Pandas keep me calm, bugs keep me sharp 🐼  
